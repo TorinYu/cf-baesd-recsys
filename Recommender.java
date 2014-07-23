@@ -6,7 +6,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Recommender {
-
 	public static void main(String[] argv) {
 		String trainFile = argv[0];
 		String testFile = argv[1];
